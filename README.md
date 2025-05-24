@@ -72,12 +72,12 @@ It uses machine learning and deep learning models to **classify** and **predict 
 ---
 
 ## 📊 Results & Conclusion
-- **Linear Regression** showed acceptable baseline performance at:
+- **Linear Regression** yielded the best overall results with:
   - **MAPE**: 18.92%
-  - **Accuracy** (tier classification): 81.08%
+  - **Accuracy**: 81.08%
 - **Random Forest** followed closely with:
   - **MAPE**: 19.08%
-  - **Accuracy** (tier classification): 80.92%
-- **XGBoost** yielded the best overall results with:
+  - **Accuracy**: 80.92%
+- **XGBoost** showed acceptable baseline performance at
   - **MAPE**: 19.12% 
-  - **Accuracy** (tier classification): 80.88%
+  - **Accuracy**: 80.88%
